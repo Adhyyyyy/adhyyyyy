@@ -1,68 +1,154 @@
-<h1 align="center">Hi 👋, I'm ADHY</h1>
-<h3 align="center">B.Tech IT Student @ CUSAT | MERN Stack Developer | DSA Learner | Future SDE</h3>
+<div align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" height="100">
+  <h1>Hey there, I'm Adith Dileep A D (ADHY)</h1>
+  <h3>Aspiring Software Engineer | Tech Enthusiast | Lifelong Learner</h3>
+</div>
 
----
-
-### 🌟 About Me
-- 🎓 Third-year **Information Technology** student at **Cochin University of Science and Technology (CUSAT)**
-- 💻 Skilled in **MERN Stack**, **React.js**, and **C++**
-- 📚 Currently mastering **Data Structures & Algorithms (DSA)** in C++
-- 🚀 Goal: Get placed at **Google, Microsoft, IBM, Amazon, or Cisco** by 2027
-- 🌱 Passionate about **building impactful projects**, exploring **cloud & system design**
-- ⚽ Outside tech: I love **football, nature, and peaceful vibes**
-
----
-
-### 🛠 Tech Stack
-**Languages:**  
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-
-**Frontend:**  
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-
-**Backend & Database:**  
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
-
-**Tools & Others:**  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
-
----
-
-### 📌 Featured Projects
-- 🖥 **[Touch Color App](https://github.com/Adhyyyyy/Touch-Color-App)** – Fun front-end React app to explore UI interactions
-- 📰 **News Reader App** – Fetching & displaying live news using APIs
-- 🏫 **CUCEK Hostel & PG Finder** – MERN + PHP project to help students find hostels/PGs with Google Maps integration
-- 🎥 **AdhyWatch** – A trailer-watching platform (Front-end)
-
----
-
-### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Adhyyyyy&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adhyyyyy&theme=tokyonight" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adhyyyyy&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <a href="https://github.com/Adhyyyyy">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://www.linkedin.com/in/adithdileepad/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:adithdileepadaditha@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
 </p>
 
 ---
 
-### 🤝 Let's Connect
+### 🚀 About Me
+
+I'm a passionate and driven **3rd Year B.Tech Information Technology Student** at CUSAT (CUCEK) with a clear goal: to join a top-tier tech company like **Google, Microsoft, Amazon, Cisco, IBM, Meta, or LinkedIn** by 2027. I am enthusiastic about coding, problem-solving, and building impactful projects.
+
+- 🎓 **3rd Year IT Student** at Cochin University of Science and Technology
+- 💡 Exploring **Web Development, MERN Stack, DSA, Cloud, and System Design**
+- 🔬 Gaining hands-on experience through **Projects, Hackathons, and Internships** (4x Intern: Zappyhire, CSRBOX-IBM, DataHex, Class Team)
+- 📚 Currently mastering **DSA, Core Subjects, and Aptitude** from **Striver's Pinnacle Course**
+- ⚡ Actively involved in college as the **Tech Lead of CUCEK Photography Club** and **CUCEK Alumni Connect Project Lead**
+
+---
+
+### 🛠️ My Tech Stack
+
+**Languages & CS Fundamentals**
 <p align="left">
-<a href="https://linkedin.com/in/YOUR-LINKEDIN" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:your.email@example.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  </a>
+    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+  </a>
+    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+  </a>
+</p>
+
+**Frameworks, Libraries & Runtimes**
+<p align="left">
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+  </a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+  </a>
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+  </a>
+    <a href="https://www.prisma.io/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/prisma/prisma-original.svg" alt="prisma" width="40" height="40"/>
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
+  </a>
+</p>
+
+**Tools & Platforms**
+<p align="left">
+  <a href="https://github.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
+  </a>
+   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
+  </a>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
+  </a>
+    <a href="https://www.notion.so/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/notion/notion-icon.svg" alt="notion" width="40" height="40"/>
+  </a>
+  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
+  </a>
+  <a href="https://vercel.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" alt="vercel" width="40" height="40"/>
+  </a>
+  <a href="https://render.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/render/render-icon.svg" alt="render" width="40" height="40"/>
+  </a>
+  <a href="https://www.netlify.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="netlify" width="40" height="40"/>
+  </a>
+  <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+  </a>
 </p>
 
 ---
 
-⭐ *"Code. Learn. Build. Repeat."*
+### 🚀 My Projects
+
+- **🔗 CUCEK Alumni Connect | *Software Engineering & Project Management Lead***
+  - A comprehensive portal built with **React, Node.js, Express, PostgreSQL, and Prisma**, deployed on **AWS**. Designed to connect students with alumni for internships, career advice, and placements.
+- **🏠 CUCEK Hostel & PG Finder | *Personal Project***
+  - A full-stack **MERN** application (MongoDB, Express, React, Node.js) to help freshers find hostels and PGs with Google Maps integration and an admin dashboard.
+- **📷 CUCEK Photography Club Website | *Tech Lead***
+  - Currently leading the development of the official website for the university's photography club using **React, Node.js, and PostgreSQL**.
+- **🎥 AdhyWatch – Movie Trailer Website**
+  - A frontend project for watching and exploring movie trailers, built to practice and showcase UI/UX skills.
+
+---
+
+### 📈 My Learning Roadmap
+
+- 🔹 **Placement Preparation:** Mastering **DSA, Core Subjects, and Aptitude** with Striver's Pinnacle Course.
+- 🔹 **Full-Stack Proficiency:** Deepening my expertise in the **MERN stack** and exploring advanced concepts.
+- 🔹 **Cloud & System Design:** Gaining practical knowledge in system architecture and cloud services like **AWS**.
+
+---
+
+### 📊 My GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Adhyyyyy&show_icons=true&theme=radical" alt="Adhy's GitHub Stats">
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adhyyyyy&theme=dark" alt="Adhy's GitHub Streak">
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adhyyyyy&layout=compact&theme=vision-friendly-dark" alt="Top Languages">
+</p>
+
+---
+
+<div align="center">
+  <h3>"Consistency, curiosity, and clarity will shape my journey to becoming a world-class engineer."</h3>
+</div>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Adhyyyyy&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views">
+</p>
