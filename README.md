@@ -149,6 +149,3 @@ I'm a passionate and driven **3rd Year B.Tech Information Technology Student** a
   <h3>"Consistency, curiosity, and clarity will shape my journey to becoming a world-class engineer."</h3>
 </div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Adhyyyyy&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views">
-</p>
